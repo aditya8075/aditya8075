@@ -1,5 +1,4 @@
-![data 2](https://user-images.githubusercontent.com/103363862/189472671-ef92acd9-c6cc-469f-8edb-efd809589b61.jpg)
-### Hi there 
+
 <h1 align="center">Hi 👋, I'm Aditya Tadas</h1>
 <h3 align="center">A Data Science Enthusiast From India</h3>
 
