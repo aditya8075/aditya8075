@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Tadas</h1>
 <h3 align="center">A Data Science Enthusiast From India</h3>
 
+An analytical minded data science enthusiast proficient in prescriptive analysis and handling large datasets and leveraging them to address business problems by generating data-driven solutions and having a team oriented attitude. I tend to embrace working in high performance environments because it
+forces me to become the best version of myself and act in a quick and decisive manner.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya8075&label=Profile%20views&color=0e75b6&style=flat" alt="aditya8075" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
